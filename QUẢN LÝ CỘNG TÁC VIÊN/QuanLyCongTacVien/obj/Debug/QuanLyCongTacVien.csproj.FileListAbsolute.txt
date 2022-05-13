@@ -1,0 +1,83 @@
+D:\QuanLyCongTacVien\QuanLyCongTacVien\bin\Debug\QuanLyCongTacVien.exe.config
+D:\QuanLyCongTacVien\QuanLyCongTacVien\bin\Debug\QuanLyCongTacVien.exe
+D:\QuanLyCongTacVien\QuanLyCongTacVien\bin\Debug\QuanLyCongTacVien.pdb
+D:\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.csproj.AssemblyReference.cache
+D:\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.frmCongTacVien.resources
+D:\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.frmMain.resources
+D:\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.Properties.Resources.resources
+D:\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.csproj.GenerateResource.cache
+D:\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.csproj.CoreCompileInputs.cache
+D:\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.exe
+D:\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.pdb
+D:\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.frmDangNhap.resources
+D:\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.frmNguoiDung.resources
+D:\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.frmSanPham.resources
+D:\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.frmHoaDon.resources
+D:\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.frmThongKe.resources
+<<<<<<< Updated upstream
+D:\TTNT45K_04\QuanLyCongTacVien\QuanLyCongTacVien\bin\Debug\QuanLyCongTacVien.exe.config
+D:\TTNT45K_04\QuanLyCongTacVien\QuanLyCongTacVien\bin\Debug\QuanLyCongTacVien.exe
+D:\TTNT45K_04\QuanLyCongTacVien\QuanLyCongTacVien\bin\Debug\QuanLyCongTacVien.pdb
+D:\TTNT45K_04\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.csproj.AssemblyReference.cache
+D:\TTNT45K_04\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.frmCongTacVien.resources
+D:\TTNT45K_04\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.frmDangNhap.resources
+D:\TTNT45K_04\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.frmHoaDon.resources
+D:\TTNT45K_04\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.frmMain.resources
+D:\TTNT45K_04\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.frmNguoiDung.resources
+D:\TTNT45K_04\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.frmSanPham.resources
+D:\TTNT45K_04\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.frmThongKe.resources
+D:\TTNT45K_04\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.Properties.Resources.resources
+D:\TTNT45K_04\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.csproj.GenerateResource.cache
+D:\TTNT45K_04\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.csproj.CoreCompileInputs.cache
+D:\TTNT45K_04\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.exe
+D:\TTNT45K_04\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.pdb
+=======
+D:\STUDY-Q\Github\TTNT45K_04\QuanLyCongTacVien\QuanLyCongTacVien\bin\Debug\QuanLyCongTacVien.exe.config
+D:\STUDY-Q\Github\TTNT45K_04\QuanLyCongTacVien\QuanLyCongTacVien\bin\Debug\QuanLyCongTacVien.exe
+D:\STUDY-Q\Github\TTNT45K_04\QuanLyCongTacVien\QuanLyCongTacVien\bin\Debug\QuanLyCongTacVien.pdb
+D:\STUDY-Q\Github\TTNT45K_04\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.csproj.AssemblyReference.cache
+D:\STUDY-Q\Github\TTNT45K_04\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.frmCongTacVien.resources
+D:\STUDY-Q\Github\TTNT45K_04\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.frmDangNhap.resources
+D:\STUDY-Q\Github\TTNT45K_04\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.frmHoaDon.resources
+D:\STUDY-Q\Github\TTNT45K_04\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.frmMain.resources
+D:\STUDY-Q\Github\TTNT45K_04\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.frmNguoiDung.resources
+D:\STUDY-Q\Github\TTNT45K_04\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.frmSanPham.resources
+D:\STUDY-Q\Github\TTNT45K_04\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.frmThongKe.resources
+D:\STUDY-Q\Github\TTNT45K_04\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.Properties.Resources.resources
+D:\STUDY-Q\Github\TTNT45K_04\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.csproj.GenerateResource.cache
+D:\STUDY-Q\Github\TTNT45K_04\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.csproj.CoreCompileInputs.cache
+D:\STUDY-Q\Github\TTNT45K_04\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.exe
+D:\STUDY-Q\Github\TTNT45K_04\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.pdb
+>>>>>>> Stashed changes
+C:\Users\ASUS\Documents\Bài tập nhóm\Thực tập nhận thức\Báo cáo tham khảo\QuanLyCongTacVien\QuanLyCongTacVien\bin\Debug\QuanLyCongTacVien.exe.config
+C:\Users\ASUS\Documents\Bài tập nhóm\Thực tập nhận thức\Báo cáo tham khảo\QuanLyCongTacVien\QuanLyCongTacVien\bin\Debug\QuanLyCongTacVien.exe
+C:\Users\ASUS\Documents\Bài tập nhóm\Thực tập nhận thức\Báo cáo tham khảo\QuanLyCongTacVien\QuanLyCongTacVien\bin\Debug\QuanLyCongTacVien.pdb
+C:\Users\ASUS\Documents\Bài tập nhóm\Thực tập nhận thức\Báo cáo tham khảo\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Bài tập nhóm\Thực tập nhận thức\Báo cáo tham khảo\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.frmCongTacVien.resources
+C:\Users\ASUS\Documents\Bài tập nhóm\Thực tập nhận thức\Báo cáo tham khảo\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.frmDangNhap.resources
+C:\Users\ASUS\Documents\Bài tập nhóm\Thực tập nhận thức\Báo cáo tham khảo\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.frmHoaDon.resources
+C:\Users\ASUS\Documents\Bài tập nhóm\Thực tập nhận thức\Báo cáo tham khảo\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.frmMain.resources
+C:\Users\ASUS\Documents\Bài tập nhóm\Thực tập nhận thức\Báo cáo tham khảo\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.frmNguoiDung.resources
+C:\Users\ASUS\Documents\Bài tập nhóm\Thực tập nhận thức\Báo cáo tham khảo\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.frmSanPham.resources
+C:\Users\ASUS\Documents\Bài tập nhóm\Thực tập nhận thức\Báo cáo tham khảo\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.frmThongKe.resources
+C:\Users\ASUS\Documents\Bài tập nhóm\Thực tập nhận thức\Báo cáo tham khảo\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.Properties.Resources.resources
+C:\Users\ASUS\Documents\Bài tập nhóm\Thực tập nhận thức\Báo cáo tham khảo\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\Bài tập nhóm\Thực tập nhận thức\Báo cáo tham khảo\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Bài tập nhóm\Thực tập nhận thức\Báo cáo tham khảo\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.exe
+C:\Users\ASUS\Documents\Bài tập nhóm\Thực tập nhận thức\Báo cáo tham khảo\QuanLyCongTacVien\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.pdb
+D:\TTNT45K_04\QUẢN LÝ CỘNG TÁC VIÊN\QuanLyCongTacVien\bin\Debug\QuanLyCongTacVien.exe.config
+D:\TTNT45K_04\QUẢN LÝ CỘNG TÁC VIÊN\QuanLyCongTacVien\bin\Debug\QuanLyCongTacVien.exe
+D:\TTNT45K_04\QUẢN LÝ CỘNG TÁC VIÊN\QuanLyCongTacVien\bin\Debug\QuanLyCongTacVien.pdb
+D:\TTNT45K_04\QUẢN LÝ CỘNG TÁC VIÊN\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.csproj.AssemblyReference.cache
+D:\TTNT45K_04\QUẢN LÝ CỘNG TÁC VIÊN\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.frmCongTacVien.resources
+D:\TTNT45K_04\QUẢN LÝ CỘNG TÁC VIÊN\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.frmDangNhap.resources
+D:\TTNT45K_04\QUẢN LÝ CỘNG TÁC VIÊN\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.frmHoaDon.resources
+D:\TTNT45K_04\QUẢN LÝ CỘNG TÁC VIÊN\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.frmMain.resources
+D:\TTNT45K_04\QUẢN LÝ CỘNG TÁC VIÊN\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.frmNguoiDung.resources
+D:\TTNT45K_04\QUẢN LÝ CỘNG TÁC VIÊN\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.frmSanPham.resources
+D:\TTNT45K_04\QUẢN LÝ CỘNG TÁC VIÊN\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.frmThongKe.resources
+D:\TTNT45K_04\QUẢN LÝ CỘNG TÁC VIÊN\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.Properties.Resources.resources
+D:\TTNT45K_04\QUẢN LÝ CỘNG TÁC VIÊN\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.csproj.GenerateResource.cache
+D:\TTNT45K_04\QUẢN LÝ CỘNG TÁC VIÊN\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.csproj.CoreCompileInputs.cache
+D:\TTNT45K_04\QUẢN LÝ CỘNG TÁC VIÊN\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.exe
+D:\TTNT45K_04\QUẢN LÝ CỘNG TÁC VIÊN\QuanLyCongTacVien\obj\Debug\QuanLyCongTacVien.pdb
